@@ -10,12 +10,16 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="https://www.roblox.com/users/142368758/profile" width="22px" src="https://images.rbxcdn.com/6304dfebadecbb3b338a79a6a528936c.svg.gzip" />][robloxACC]
+[<img align="left" alt="Internal" width="22px" src="https://images.rbxcdn.com/6304dfebadecbb3b338a79a6a528936c.svg.gzip" />][robloxACC]
+[<img align="left" alt="Internal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitterACC]
+
 
 <br />
 
 ### Languages
 
+[<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />][lua]
 
-
-[robloxACC]: https://www.roblox.com/users/142368758/profile
+[robloxACC]: https://www.roblox.com/users/142368758/profile,
+[twitterACC]: https://twitter.com/internalRBLX
+[lua]: http://www.lua.org/
