@@ -1,4 +1,4 @@
-### Hi there, Im [Internal][robloxACC] ! 👋
+### Hi there, Im [Internal][robloxACC]! 👋
 
 ## Developer, Gamer, What else do you need!
 - 🔭 I’m currently working on A Couple Games!
