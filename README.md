@@ -6,7 +6,14 @@
 - 👯 I’m looking to collaborate on Open-Sourced Roblox Games!
 - 🤔 I’m looking for help with Lerps
 - 😄 Pronouns: He
+- ⚡ Fun fact: I am making stuff open-sourced later this year!
 
 ### Connect With Me:
 
 [<img align="left" alt="https://www.roblox.com/users/142368758/profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][robloxACC]
+
+<br />
+
+### Languages
+
+[robloxACC]: https://www.roblox.com/users/142368758/profile
