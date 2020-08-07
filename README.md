@@ -24,4 +24,4 @@
 [robloxACC]: https://www.roblox.com/users/142368758/profile
 [twitterACC]: https://twitter.com/internalRBLX
 [lua]: http://www.lua.org/
-[Typescript]
+[Typescript]: https://www.typescriptlang.org/
