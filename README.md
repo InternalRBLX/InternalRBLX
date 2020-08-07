@@ -10,7 +10,7 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="https://www.roblox.com/users/142368758/profile" width="22px" src="http://www.w3.org/2000/svg" />][robloxACC]
+[<img align="left" alt="https://www.roblox.com/users/142368758/profile" width="22px" src="https://images.rbxcdn.com/6304dfebadecbb3b338a79a6a528936c.svg" />][robloxACC]
 
 <br />
 
