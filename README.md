@@ -19,7 +19,9 @@
 ### Languages
 
 [<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />][lua]
+[<img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />][Typescript]
 
 [robloxACC]: https://www.roblox.com/users/142368758/profile
 [twitterACC]: https://twitter.com/internalRBLX
 [lua]: http://www.lua.org/
+[Typescript]
