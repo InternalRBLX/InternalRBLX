@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on A Couple Games!
 - 🌱 I’m currently learning Lua
 - 👯 I’m looking to collaborate on Open-Sourced Roblox Games!
-- 🤔 I’m looking for help with Lerps
+- 🤔 I’m looking for help with HTML
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am making stuff open-sourced later this year!
 
