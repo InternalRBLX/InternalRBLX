@@ -19,9 +19,11 @@
 ### Languages
 
 [<img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />][lua]
+[<img align="left" alt="Lua" width="26px" src="https://www.python.org/static/community_logos/python-powered-h.svg" />][python]
 [<img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />][Typescript]
 
 [robloxACC]: https://www.roblox.com/users/142368758/profile
 [twitterACC]: https://twitter.com/internalRBLX
 [lua]: http://www.lua.org/
+[python]: https://www.python.org/
 [Typescript]: https://www.typescriptlang.org/
